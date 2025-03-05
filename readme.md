@@ -1,1 +1,0 @@
-Öffentliche Daten für Verkehrsschilderkennung
