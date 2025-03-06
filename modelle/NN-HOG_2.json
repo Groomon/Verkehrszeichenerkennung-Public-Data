@@ -1,0 +1,19 @@
+{
+    "num_layers": 2,
+    "dense_layer_1_size": 512,
+    "dropout_layer_1_rate": 0.1,
+    "learning_rate": 0.0018977027841734885,
+    "dense_layer_2_size": 512,
+    "dropout_layer_2_rate": 0.05,
+    "dense_layer_3_size": 512,
+    "dropout_layer_3_rate": 0.15000000000000002,
+    "dense_layer_4_size": 512,
+    "dropout_layer_4_rate": 0.15000000000000002,
+    "dense_layer_5_size": 512,
+    "dropout_layer_5_rate": 0.25,
+    "tuner/epochs": 50,
+    "tuner/initial_epoch": 17,
+    "tuner/bracket": 1,
+    "tuner/round": 1,
+    "tuner/trial_id": "0080"
+}
