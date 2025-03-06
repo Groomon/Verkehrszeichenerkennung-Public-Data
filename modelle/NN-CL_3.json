@@ -1,0 +1,19 @@
+{
+    "num_layers": 4,
+    "dense_layer_1_size": 2048,
+    "dropout_layer_1_rate": 0.2,
+    "dense_layer_2_size": 1536,
+    "dropout_layer_2_rate": 0.2,
+    "dense_layer_3_size": 1536,
+    "dropout_layer_3_rate": 0.0,
+    "dense_layer_4_size": 1536,
+    "dropout_layer_4_rate": 0.30000000000000004,
+    "dropout_layer_5_rate": 0.15,
+    "learning_rate": 0.00020539333402083606,
+    "dense_layer_5_size": 1024,
+    "dropout_layer_6_rate": 0.15,
+    "tuner/epochs": 50,
+    "tuner/initial_epoch": 0,
+    "tuner/bracket": 0,
+    "tuner/round": 0
+}
